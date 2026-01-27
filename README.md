@@ -1,6 +1,7 @@
 Project Title: Interpretable Diabetes Prediction with SVM
 
-Overview This project uses a Support Vector Machine (SVM) to predict diabetes risk based on the Pima Indians Diabetes Dataset. Beyond simple classification, the goal was to implement Explainable AI (XAI) to understand the model's decision-making process.
+Overview:
+This project uses a Support Vector Machine (SVM) to predict diabetes risk based on the Pima Indians Diabetes Dataset. Beyond simple classification, the goal was to implement Explainable AI (XAI) to understand the model's decision-making process.
 
 Technical Stack
 
